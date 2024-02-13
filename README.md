@@ -10,6 +10,6 @@ The dataset is about the nutritional values of different fast-food items from fa
 Dataset includes items from six fast-food chains. [Dataset](fastfood_dataset.csv)
 Analysis was done using Pivot table and then it was visualized better using tableau. [Analysis](fastfood_dataset - analysis.pdf)
 ## Findings
-Subway and Taco Bell can considered the healthiest food chain restaurants in US. \\
-Taco Bell has the most variety of health food items compared to Subway, though Subway has the healthiest food item on their menu. \\
+Subway and Taco Bell can considered the healthiest food chain restaurants in US. \
+Taco Bell has the most variety of health food items compared to Subway, though Subway has the healthiest food item on their menu. \
 Mcdonalds, Sonic, and Burger King can be considered as unhealthiest food chains. 
