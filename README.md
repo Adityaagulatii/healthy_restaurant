@@ -6,10 +6,10 @@ In the United States, an estimated 84.8 million adults, or 36.6% of the populati
 ## Main Objective
 Which American fast-food chain restaurant has the healthiest menu?
 ## Dataset and Analysis
-The dataset is about nutritional values of different fast food items from fast-food chain restaurants. 
+The dataset is about the nutritional values of different fast-food items from fast-food chain restaurants. 
 Dataset includes items from six fast-food chains. [Dataset](fastfood_dataset.csv)
-Analysis was done using Pivot table and then it was visualized better using tableau. [Analysis](Analysis)
+Analysis was done using Pivot table and then it was visualized better using tableau. [Analysis](fastfood_dataset - analysis.pdf)
 ## Findings
-Subway and Taco Bell can considered as the healthiest food chain restaurant in US. 
-Taco Bell has most variety of health food items compared to Subway, though Subway has the healthiest food item on their menu. 
-Mcdonalds, Sonic and Burger King can be considered as unhealthiest food chain. 
+Subway and Taco Bell can considered the healthiest food chain restaurants in US. \\
+Taco Bell has the most variety of health food items compared to Subway, though Subway has the healthiest food item on their menu. \\
+Mcdonalds, Sonic, and Burger King can be considered as unhealthiest food chains. 
