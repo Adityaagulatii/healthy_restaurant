@@ -7,7 +7,7 @@ In the United States, an estimated 84.8 million adults, or 36.6% of the populati
 Which American fast-food chain restaurant has the healthiest menu?
 ## Dataset and Analysis
 The dataset is about nutritional values of different fast food items from fast-food chain restaurants. 
-Dataset includes items from six fast-food chains. [Dataset](Dataset)
+Dataset includes items from six fast-food chains. [Dataset](fastfood_dataset.csv)
 Analysis was done using Pivot table and then it was visualized better using tableau. [Analysis](Analysis)
 ## Findings
 Subway and Taco Bell can considered as the healthiest food chain restaurant in US. 
